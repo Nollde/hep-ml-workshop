@@ -1,0 +1,14 @@
+name: tensorflow
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tensorflow
+  - keras
+  - uproot
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - pandas
